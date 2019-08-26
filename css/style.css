@@ -256,14 +256,14 @@ header .intro-text {
 	padding: 10px 0;
 	text-transform: uppercase;
 }
-#services .menu-section hr {
+#services .service-section hr {
 	margin: 0 auto;
 }
-#services .menu-section {
+#services .service-section {
 	margin: 0 20px 80px;
 }
-#services .menu-section-title {
-	font-size: 26px;
+#services .service-section-title {
+	font-size: 20px;
 	display: block;
 	font-weight: 500;
 	color: #444;
